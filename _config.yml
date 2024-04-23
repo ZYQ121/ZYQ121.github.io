@@ -12,7 +12,7 @@ title                    : "Yuqiang Zhang"
 title_separator          : "-"
 name                     : "Yuqiang Zhang"
 description              : "This is my academic personal page"
-url                      : https://zyq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://zyq.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" 
 repository               : "academicpages/academicpages.github.io"
 
