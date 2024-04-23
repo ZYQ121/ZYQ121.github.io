@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Yuqiang Zhang, and I am a final-year Ph.D. candidate at Changchun University of Science and Technology. My research interests lie primarily in the fields of text2audio, text2music, etc.
+My name is Yuqiang Zhang, and I am a final-year Ph.D. candidate at Changchun University of Science and Technology. My research interests lie primarily in the fields of text2image, text2music, etc.
 
 A data-driven personal website
 ======
