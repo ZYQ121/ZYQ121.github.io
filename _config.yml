@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Yuqiang Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yuqiang Zhang"
+description              : &description "This is my academic personal page"
+url                      : https://zyq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/ZYQ121/zyq121.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yuqiang Zhang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  pronouns         : # example: "She"  
+  bio              : "I'm a Ph.D student in Changchun University of Science and Technology"
+  location         : "Changchun"
+  # employer         : "Red Brick University"
+  # uri              : # URL
+  email            : "xiaoqiang121@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
