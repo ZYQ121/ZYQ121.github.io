@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "She"  
   bio              : "I'm a Ph.D student in Changchun University of Science and Technology"
   location         : "Changchun"
-  # employer         : "Red Brick University"
-  # uri              : # URL
+  employer         : "Red Brick University"
+  uri              : # URL
   email            : "xiaoqiang121@gmail.com" 
 
   # Academic websites
