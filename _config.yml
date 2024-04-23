@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Yuqiang Zhang"
 title_separator          : "-"
-name                     : &name "Yuqiang Zhang"
-description              : &description "This is my academic personal page"
+name                     : "Yuqiang Zhang"
+description              : "This is my academic personal page"
 url                      : https://zyq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/ZYQ121/zyq121.github.io"
+baseurl                  : "" 
+repository               : "https://github.com/ZYQ121"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yuqiang Zhang"
-  pronouns         : # example: "She"  
-  bio              : "I'm a Ph.D student in Changchun University of Science and Technology"
+  pronouns         : "She"  
+  bio              : "I'm a Ph.D student of Changchun University of Science and Technology"
   location         : "Changchun"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : ""
+  uri              : ""# URL
   email            : "xiaoqiang121@gmail.com" 
 
   # Academic websites
