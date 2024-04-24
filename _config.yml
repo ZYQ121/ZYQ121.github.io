@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://pbs.twimg.com/profile_images/1577008064833650690/PgxWE5li_400x400.jpg"
+  avatar           : "images/mob_99.jpeg"
   name             : "Yuqiang Zhang"
   pronouns         : # example: "she/her"  
   bio              : "I am currently in the final year of my Ph.D. program at Changchun University of Science and Technology."
