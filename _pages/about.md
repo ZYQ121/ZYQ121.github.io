@@ -11,7 +11,7 @@ My name is Yuqiang Zhang, and I am a final-year Ph.D. candidate at Changchun Uni
 
 ### Contacts
 
-E-mail: xiaoqiang121@gmail.com
+E-mail: <xiaoqiang121@gmail.com>
 
 ### Investigator of Research Projects
 
