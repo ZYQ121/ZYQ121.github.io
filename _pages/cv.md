@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in China Women's University, 2010
+* Ph.D in Changchun University of Science and Technology, 2024
 * M.S. in Changchun University of Science and Technology, 2017
-* B.S. in Changchun University of Science and Technology, 2024
+* B.S. in China Women's University, 2010
 
 Work experience
 ======
