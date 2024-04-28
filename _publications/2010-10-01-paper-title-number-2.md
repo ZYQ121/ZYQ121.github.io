@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Published in Journal of Imaging Science and Technology, 2024'
 date: 2024-01-30
 venue: ''
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: ''
 citation: ''
 ---
 
