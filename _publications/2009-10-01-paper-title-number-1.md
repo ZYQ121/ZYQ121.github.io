@@ -3,7 +3,7 @@ title: "CASEformer — A Transformer-Based Projection Photometric Compensation N
 collection: publications
 permalink: 10.1587/transinf.2023MUP0001
 excerpt: 'Published in IEICE Transactions on Information and Systems, 2024'
-date: 2024-01
+date: 2024-01-30
 venue: ''
 paperurl: 'https://www.jstage.jst.go.jp/article/transinf/E107.D/1/E107.D_2023MUP0001/_article'
 citation: ''

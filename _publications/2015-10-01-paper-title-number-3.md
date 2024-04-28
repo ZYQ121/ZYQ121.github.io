@@ -3,7 +3,7 @@ title: "DHNet: A Depthwise Separable Convolution-based High-Resolution Full Proj
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is accepted by the conference of The 37th International Conference on Computer Animation and Social Agents'
-date: 2024-04
+date: 2024-04-24
 venue: ''
 paperurl: ''
 citation: ''
