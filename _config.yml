@@ -21,10 +21,10 @@ repository               : "zyq121/zyq121.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mob_99.jpeg"
+  avatar           : "mob_400x400.jpg"
   name             : "Yuqiang Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "I am currently in the final year of my Ph.D. program at Changchun University of Science and Technology."
+  bio              : "She is currently in the final year of my Ph.D. program at Changchun University of Science and Technology."
   location         : "Changchun, Jilin, China"
   # employer         : "None"
   # uri              : # URL
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "zyq121"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
