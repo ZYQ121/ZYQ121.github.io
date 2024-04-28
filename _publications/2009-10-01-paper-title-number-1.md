@@ -6,8 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2024-1-30
 venue: 'Published in IEICE Transactions on Information and Systems, 2024'
 paperurl: 'https://www.jstage.jst.go.jp/article/transinf/E107.D/1/E107.D_2023MUP0001/_pdf/-char/en'
-citation: 
-'@article{article,
+citation: '@article{article,
 author = {ZHANG, Yuqiang and Yang, Huamin and HAN, Cheng and ZHANG, Chao and ZHU, Chaoran},
 year = {2024},
 month = {01},
