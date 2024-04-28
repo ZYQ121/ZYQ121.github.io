@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in China Women's University, 2010
+* M.S. in Changchun University of Science and Technology, 2017
+* B.S. in Changchun University of Science and Technology, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2017: Engineer
+  * Changchun Changguang Zhongtian Optoelectronics Technology Co., Ltd.
+  * Duties includes: Lithography platform software development
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2019: Engineer
+  * Changchun Deep Blue Manufacturing Co., Ltd.
+  * Duties included: Software development
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
